@@ -1,0 +1,23 @@
+{
+  "name": "hexlet-1",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Tselena/hexlet-js.git"
+  },
+  "keywords": [
+    "practice"
+  ],
+  "author": "ya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tselena/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/Tselena/hexlet-js#readme"
+}
